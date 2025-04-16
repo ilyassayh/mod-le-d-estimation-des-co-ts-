@@ -1,7 +1,8 @@
 streamlit==1.32.0
-pandas
-joblib
-scikit-learn==1.2.2
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.6.1
+joblib==1.4.2
 Pillow
 python-dotenv
 plotly
